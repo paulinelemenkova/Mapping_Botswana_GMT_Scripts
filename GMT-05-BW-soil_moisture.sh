@@ -168,7 +168,7 @@ gmt pstext -R -J -N -O -K \
 EOF
 #
 gmt pstext -R -J -N -O -K \
--F+f17p,20,salmon4+jLB >> $ps << EOF
+-F+f17p,20,white+jLB >> $ps << EOF
 21.2 -23.8 K A L A H A R I
 21.2 -24.9 D E S E R T
 EOF
